@@ -17,6 +17,6 @@
 }
 
 @-webkit-keyframes magicglow { 
-	0% {text-shadow: 1px 1px 0px #7E4D2A;}
-	100% {text-shadow: 1px 1px 20px #49312E;}
+	0% {color:#582420;}
+	100% {color:#140705;}
 }
