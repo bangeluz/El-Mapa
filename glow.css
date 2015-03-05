@@ -1,0 +1,11 @@
+@keyframes mapaglow { 
+	0% {text-shadow: 1px 1px 10px #BE7474;} 
+	50% {text-shadow: 1px 1px 40px #FFA9A9;} 
+	100% {text-shadow: 1px 1px 10px #BE7474;}
+}
+
+@-webkit-keyframes mapaglow { 
+	0% {text-shadow: 1px 1px 10px #BE7474;} 
+	50% {text-shadow: 1px 1px 40px #FFA9A9;} 
+	100% {text-shadow: 1px 1px 10px #BE7474;}
+}
