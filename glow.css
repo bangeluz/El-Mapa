@@ -20,4 +20,30 @@
 	0% {text-shadow: 1px 1px 0px #7E4D2A;}
 	50% {text-shadow: 0px 0px 20px #49312E;}
 	100% {text-shadow: 1px 1px 0px #7E4D2A;}
+	
+}
+
+
+@keyframes umbra-rhett { 
+	0% {color: #FFFFFF;} 
+	50% {color: #333333;} 
+	100% {text-shadow: #FFFFFF;}
+}
+
+@-webkit-keyframes umbra-rhett { 
+	0% {color: #FFFFFF;} 
+	50% {color: #333333;} 
+	100% {text-shadow: #FFFFFF;}
+}
+
+@keyframes umbra-rhett { 
+	0% {color: #FFFFFF;} 
+	50% {color: #333333;} 
+	100% {text-shadow: #FFFFFF;}
+}
+
+@-webkit-keyframes umbra-rhett { 
+	0% {color: #FFFFFF;} 
+	50% {color: #333333;} 
+	100% {text-shadow: #FFFFFF;}
 }
