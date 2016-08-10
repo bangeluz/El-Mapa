@@ -1,2 +1,3 @@
-http://guionactualidad.uab.cat/de-superman-a-dexter-o-de-la-primera-pantalla-a-la-narrativa-transmedia-i/
-milton glaser
+section.color2 article.art-txt {
+    margin-right: -10em;
+}
